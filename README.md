@@ -54,6 +54,4 @@ The application utilizes a state-driven theme engine. Upon session completion (0
 * **GitHub Repository:** `https://github.com/KhushiRaghuwanshi20/SereneFocus`
 * **Live Production Demo:** 
 
----
 
-**Would you like me to draft a 3-sentence "Project Pitch" that you can paste into the submission box to instantly grab the judges' attention?**
